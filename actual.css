@@ -161,7 +161,7 @@
 
   /* Notice/Warning/Error Colors */
   --color-noticeBackground: rgba(166, 218, 149, 0.15);
-  --color-noticeBackgroundLight: rgba(166, 218, 149, 0.1);
+  --color-noticeBackgroundLight: #313943;
   --color-noticeBackgroundDark: rgba(166, 218, 149, 0.2);
   --color-noticeText: #a6da95;
   --color-noticeTextLight: #a6da95;
@@ -169,13 +169,13 @@
   --color-noticeTextMenu: #a6da95;
   --color-noticeBorder: #a6da95;
 
-  --color-warningBackground: rgba(245, 169, 127, 0.15);
+  --color-warningBackground: #433b44;
   --color-warningText: #f5a97f;
   --color-warningTextLight: #f5a97f;
   --color-warningTextDark: #f5a97f;
   --color-warningBorder: #f5a97f;
 
-  --color-errorBackground: rgba(237, 135, 150, 0.15);
+  --color-errorBackground: #423548;
   --color-errorText: #ed8796;
   --color-errorTextDark: #ed8796;
   --color-errorTextDarker: #ed8796;
